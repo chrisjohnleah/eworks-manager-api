@@ -4,6 +4,12 @@
     "description": "Framework-agnostic PHP SDK for the eWorks Manager API.",
     "type": "library",
     "license": "MIT",
+    "homepage": "https://github.com/chrisjohnleah/eworks-manager-api",
+    "keywords": ["eworks", "eworks-manager", "api", "sdk", "saloon", "field-service"],
+    "support": {
+        "issues": "https://github.com/chrisjohnleah/eworks-manager-api/issues",
+        "source": "https://github.com/chrisjohnleah/eworks-manager-api"
+    },
     "require": {
         "php": "^8.3",
         "saloonphp/saloon": "^4"
